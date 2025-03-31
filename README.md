@@ -67,7 +67,7 @@ The goal of this project is to develop an intelligent, automated system to match
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SM0311/PRODUCT_MATCHER_APP.git
+git clone https://github.com/SM0311/PRODUCT_MATCHER.git
 
 ```
 
