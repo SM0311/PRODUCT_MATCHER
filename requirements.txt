@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+python-dotenv
+matplotlib
+seaborn
+scikit-learn
+tqdm
+numpy
+pytest
