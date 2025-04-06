@@ -1,4 +1,5 @@
 # Product Matching System
+AI-powered tool to match supplier and store products using exact, fuzzy, and GPT-based logic
 
 ## Objective
 
